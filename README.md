@@ -3,7 +3,7 @@
 A **Smart Billing System** developed in **Python** for efficient and automated invoice generation.
 It’s designed for **retail shops, restaurants, and supermarkets** to handle product management, billing, tax calculation, and invoice printing in one place — without needing internet or complex software.
 
----
+
 
 ## 🧠 Project Overview
 
@@ -104,6 +104,8 @@ It is implemented using **Python** with a **Tkinter GUI** and **SQLite database*
 ---
 
 ## 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/096f8e21-8431-41b2-a4c2-2ddbe554f80b" />
 
 * Dashboard / Home
 * Product Entry Page
